@@ -1,4 +1,5 @@
 # auth.py
+from utils.auth import login
 import streamlit as st
 import pandas as pd
 import os
